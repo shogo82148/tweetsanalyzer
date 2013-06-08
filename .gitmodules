@@ -1,0 +1,6 @@
+[submodule "oktavia"]
+	path = oktavia
+	url = https://github.com/shibukawa/oktavia.git
+[submodule "jsziptools"]
+	path = jsziptools
+	url = https://github.com/ukyo/jsziptools.git
